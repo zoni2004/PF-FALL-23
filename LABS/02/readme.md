@@ -14,8 +14,10 @@
 ****![Screenshot 2023-08-29 224026](https://github.com/zoni2004/PF-FALL-23/assets/142867557/22378050-bf02-4cf5-80a4-19b6478e7f73)
 
 ### question 6
-****
+****![Screenshot (11)](https://github.com/zoni2004/PF-FALL-23/assets/142867557/22578d55-5691-4d17-8714-6308559ccf82)
+
 
 ### question 7
-****
+****![Screenshot (12)](https://github.com/zoni2004/PF-FALL-23/assets/142867557/9109289d-835c-492d-a714-005874bc9c1c)
+
 
