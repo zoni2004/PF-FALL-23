@@ -1,4 +1,4 @@
-![IMG_20230902_202128 (1)](https://github.com/zoni2004/PF-FALL-23/assets/142867557/5a53faa7-ac08-451d-823c-1bf8a35e2461)## ASSIGNMENT 1
+## ASSIGNMENT 1
 
 ### question 1
 ****![WhatsApp Image 2023-08-26 at 10 30 25 PM](https://github.com/zoni2004/PF-FALL-23/assets/142867557/bec04e95-1a3b-4028-8ca8-f46eba7a3939)
