@@ -16,11 +16,15 @@
 ### question 5
 ****![WhatsApp Image 2023-08-26 at 10 30 23 PM](https://github.com/zoni2004/PF-FALL-23/assets/142867557/78a3c588-721e-4926-920e-79f77497f91c)
 
+## ASSIGNMENT 2
 ### question 6
 ****![IMG_20230902_202128](https://github.com/zoni2004/PF-FALL-23/assets/142867557/3f052b6d-50ad-440f-a6aa-08ed6fc2e87f)
 
 ### question 7
-****
+****![IMG_20230904_100110](https://github.com/zoni2004/PF-FALL-23/assets/142867557/0a1dae1e-c60a-4233-b8aa-78b27a20aa99)
+****![IMG_20230904_095241](https://github.com/zoni2004/PF-FALL-23/assets/142867557/094c517a-8ec4-4072-b35f-0ca6c108f00b)
+****![IMG_20230904_100144](https://github.com/zoni2004/PF-FALL-23/assets/142867557/e9363cf4-2f95-462d-a434-965e9ddf28b1)
+****![IMG_20230904_100042](https://github.com/zoni2004/PF-FALL-23/assets/142867557/056b004a-4578-4a16-90d3-5c5a6c0f7160)
 
 ### question 8
 ****![IMG_20230902_202212](https://github.com/zoni2004/PF-FALL-23/assets/142867557/750fb935-baf9-4e12-83c2-41fb6186faba)
