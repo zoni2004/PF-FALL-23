@@ -2,12 +2,16 @@
 #include <math.h>
 
 int main () {
-             int rad = 5;
-             int height = 20;
-             int pi = 3.142;
-             printf ("FORMULA TO FIND VOLUME OF BALL CONTAINER \n");
-             int basearea = pi * rad * rad;
-             int volume = basearea * height; 
-             printf("The volume is: %d\n" , volume);  
+             float rad;
+             float height;
+             float pi = 3.142;
+             printf ("ENTER RADIUS \n");
+             scanf ("%f\n", &rad);
+             printf ("ENTER HEIGHT \n");
+             scanf ("%f\n", &height);
+             float basearea = pi * rad * rad;
+             float volume = basearea * height; 
+             printf("The volume is: %f\n" , volume);
+  
 return 0;
 }       
