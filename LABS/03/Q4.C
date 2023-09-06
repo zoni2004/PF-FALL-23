@@ -7,9 +7,9 @@ int main()
              float discount;
              float asprice; //as stands for after sale
              printf ("Enter the original price \n");
-             scanf ("%f\n" &ogprice);
+             scanf ("%f", &ogprice);
              printf ("Enter the discount rate\n");
-             scanf ("%f\n" &discount);
+             scanf ("%f" ,&discount);
              discount = discount/100;
              discount = 1 - discount;
              asprice = ogprice - discount;
