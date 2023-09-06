@@ -1,32 +1,41 @@
+
 #include <stdio.h>
-#include <math.h>
+
 
 int main() {
              int num1;
              int num2;
              char sign;
-             float ans;
+             float answer;
              printf ("Enter a number:\n ");
-             scanf ("%d \n" &num1);
+             scanf ("%d" ,&num1);
              printf ("Enter another number: \n");
-             scanf ("%d \n" &num2);
-             printf ("Enter an arithemtic operation \n")
-             scanf ("%c \n" &sign)
-             if (sign == +) {
+             scanf ("%d" ,&num2);
+             printf ("Enter an arithemtic operation: \n");
+             scanf ("%c" ,&sign);
+             
+             if (sign == '+') {
                  answer = num1 + num2;
                  printf ("The answer is: %f \n", answer);
              }
-             if (sign == -) {
+             else if (sign == '-') {
                  answer = num1 - num2;
                  printf ("The answer is: %f \n", answer);
              }
-            if (sign == *) {
+            else if (sign == '*') {
                 answer = num1 * num2;
                 printf ("The answer is: %f \n", answer);
             }
-            if (sign == /){
+            else if (sign == '/'){
+                if (num2 == 0) {
+                printf ("denominator can't be zero");
+                scanf ("%d" ,&num2);
+                }
                 answer = num1 / num2;
                 printf ("The answer is: %f \n" , answer);
             }
+  
     return 0;
 }
+
+    
