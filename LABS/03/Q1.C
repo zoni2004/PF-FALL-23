@@ -1,9 +1,4 @@
-
-#include <stdio.h>
-
-
-int main() {
-             int num1;
+int num1;
              int num2;
              char sign;
              float answer;
@@ -37,5 +32,7 @@ int main() {
   
     return 0;
 }
+
+    
 
     
