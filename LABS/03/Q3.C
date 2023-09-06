@@ -7,7 +7,6 @@ int main()
              float b;
              float hyp;
              printf ("Enter a side");
-			 fflush(0);
              scanf ("%f" ,&a);
              printf ("Enter the other side \n");
              scanf ("%f" ,&b);
