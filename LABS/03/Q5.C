@@ -14,35 +14,35 @@ int main()
              int TSdistance = 0;
              int Tdistance; //sum of west, north and south distances
              int fuelrate = 2; 
-             int fuelcomsumed;
-             while (NdistanceC != 0) {
+             int fuelconsumed;
+             
+             
              printf ("Enter the distance travelled north \n");
-             scanf ("%d\n" &Ndistance);
+             scanf ("%d", &Ndistance);
              printf ("Press '0' if done with input and anyother number key if not");
-             scanf ("%d\n" &NdistanceC);
-             TNdistance = TWdistance + Ndistance;
+             scanf ("%d" ,&NdistanceC);
+             TNdistance = TNdistance + Ndistance;
              TNdistance = Ndistance;
-             }
-             while (WdistanceC != 0) {
+            
              printf ("Enter the distance travelled west \n");
-             scanf ("%d\n" &Wdistance);
+             scanf ("%d" ,&Wdistance);
              printf ("Press '0' if done with input and anyother number key if not");
-             scanf ("%d\n" &WdistanceC);
+             scanf ("%d" ,&WdistanceC);
              TWdistance = TWdistance + Wdistance;
              TWdistance = Wdistance;
-             }
-             while (SdistanceC != 0) {
+             
+           
              printf ("Enter the distance travelled south \n");
-             scanf ("%d\n" &Sdistance);
+             scanf ("%d" ,&Sdistance);
              printf ("Press '0' if done with input and anyother number key if not");
-             scanf ("%d\n" &SdistanceC);
+             scanf ("%d" ,&SdistanceC);
              TSdistance = TSdistance + Sdistance;
              TSdistance = Sdistance;
-             }
+             
              Tdistance = TSdistance+TWdistance+TNdistance;
              fuelconsumed = Tdistance * fuelrate;
              printf ("The total distance travelled is: %d \n", Tdistance);
-             printf ("The total fuel consumed is: %d \n", fuelconsumed)
+             printf ("The total fuel consumed is: %d \n", fuelconsumed);
              
     return 0;
 }
