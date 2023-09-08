@@ -21,7 +21,6 @@ int main()
              scanf ("%d", &Ndistance);
              printf ("Press '0' if done with input and anyother number key if not");
              scanf ("%d" ,&NdistanceC);
-             TNdistance = Ndistance;
              TNdistance = TNdistance + Ndistance;
              } while (NdistanceC != 0);
              do {
@@ -29,7 +28,6 @@ int main()
              scanf ("%d" ,&Wdistance);
              printf ("Press '0' if done with input and anyother number key if not");
              scanf ("%d" ,&WdistanceC);
-             TWdistance = Wdistance;
              TWdistance = TWdistance + Wdistance;
              } while (WdistanceC != 0);
              
@@ -38,7 +36,6 @@ int main()
              scanf ("%d" ,&Sdistance);
              printf ("Press '0' if done with input and anyother number key if not");
              scanf ("%d" ,&SdistanceC);
-             TSdistance = Sdistance;
              TSdistance = TSdistance + Sdistance;
             } while (SdistanceC != 0);
              Tdistance = TSdistance+TWdistance+TNdistance;
