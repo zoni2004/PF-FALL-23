@@ -9,6 +9,7 @@ int num;
 int x;
 printf ("Please enter the number of values you need \n");
 scanf ("%d" , &n);
+if (n > 1) {
 do {
 printf ("Please enter a number \n");
 scanf ("%d" , &num);
@@ -18,5 +19,8 @@ sum = sum + x;
 } while (count != n);
 printf ("Your sum of square values %d" ,sum); 
 
+}
+else {
+printf ("INVALID INPUT OF n")
  return 0;
 }
