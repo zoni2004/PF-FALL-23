@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    // --- FINDING MULTIPLES OF 3 ---//
     int n;
     int rem;
     printf ("Enter a number ");
