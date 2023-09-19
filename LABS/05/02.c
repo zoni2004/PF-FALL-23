@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    //-----GREETING ACCORDING TO THE TIME OF THE DAY----//
     int current_t;
     printf ("Enter the current time");
     scanf ("%d" ,&current_t);
