@@ -1,4 +1,5 @@
 char input;
+//-----CONFIRMING A DELETE OPERATION---//
     char Y;
     char y;
     char N;
