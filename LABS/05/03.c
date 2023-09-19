@@ -1,3 +1,6 @@
+#include <stdio.h>
+
+int main () {
 char input;
 //-----CONFIRMING A DELETE OPERATION---//
     char Y;
