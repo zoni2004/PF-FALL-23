@@ -16,8 +16,8 @@ printf("Please enter the constant: \n");
 scanf("%d" ,&c);
 x1 = -1*b + sqrt((b*b) - 4*a*c)/2*a;
 x2 = -1*b + sqrt((b*b) - 4*a*c)/2*a;
-printf ("First value of x is: %f \n");
-printf ("Second value of x is: %f \n");
+printf ("First value of x is: %f \n",x1);
+printf ("Second value of x is: %f \n",x2);
 }while (a>0);
 
 return 0;
