@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    //----DIFFERENTIATING DIFFERENT CHARACTERS---//
     int character;
     printf ("Input a character \n");
     scanf ("%c" ,&character);
