@@ -23,7 +23,8 @@ int x;
         x = x - 1000000 - 1000;
         printf ("The 4th and 7th bit are now turned off %d");
     }
-
-
+    else {
+        printf ("Invalid Input");
+    }
     return 0;
 }
