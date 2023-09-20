@@ -2,6 +2,7 @@
 #include <math.h>
 
 int main() {
+    //---FINDING ROOTS USING DISCRIMNANT AND NATURE OF ROOTS---//
     float x1;
     float x2;
     int a;
