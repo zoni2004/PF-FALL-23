@@ -13,4 +13,5 @@
 ****![WhatsApp Image 2023-09-12 at 11 43 30 PM](https://github.com/zoni2004/PF-FALL-23/assets/142867557/91fffe90-8784-4baf-b0a0-ac311fcfe724)
 
 ### Q6.
-****
+****![WhatsApp Image 2023-09-20 at 9 04 12 PM](https://github.com/zoni2004/PF-FALL-23/assets/142867557/7234b529-8157-4751-ba0a-337eae999633)
+
