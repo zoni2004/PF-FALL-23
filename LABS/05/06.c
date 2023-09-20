@@ -13,15 +13,15 @@ int x;
     fflush (0);
     if (bit4 == 0 && bit7 == 1) {
         x = x - 1000000 ;
-        printf ("The 7th bit is now turned off %d");
+        printf ("The 7th bit is now turned off %d",x);
     }
     else if (bit4 ==1 && bit7 == 0) {
         x = x - 1000 ;
-        printf ("The 4th bit is now turned off %d");
+        printf ("The 4th bit is now turned off %d",x);
     }
     else if (bit4 == 1 && bit7 == 1) {
         x = x - 1000000 - 1000;
-        printf ("The 4th and 7th bit are now turned off %d");
+        printf ("The 4th and 7th bit are now turned off %d",x);
     }
     else {
         printf ("Invalid Input");
