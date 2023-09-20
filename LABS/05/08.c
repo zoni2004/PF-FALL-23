@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main () {
+   //---ADJUSTING BRIGHTNESS ACCORDING TO LIGHT INTENSITY INPUT---//
    int intensity;
    int brightness = 0;
    printf ("Enter the value of light intensity \n");
