@@ -24,7 +24,7 @@ int x;
         printf ("The 4th and 7th bit are now turned off %d",x);
     }
     else {
-        printf ("Invalid Input");
+        printf ("The 4th and 7th bit already turned off %d",x");
     }
     return 0;
 }
