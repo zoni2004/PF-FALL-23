@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    //---CALCULATING DISCOUNT AT A SHOPPING MALL--//
     float actual_amount;
     float saved_amount;
     float discount;
