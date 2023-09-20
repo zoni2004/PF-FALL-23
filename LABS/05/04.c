@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+     //----BASIC ARITHMETIC CALC USING SWITCH---//
      char operation;
     float ans;
     int x;
