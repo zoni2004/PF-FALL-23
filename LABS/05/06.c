@@ -5,7 +5,7 @@ int main() {
     int bit7;
     int bit4;
     printf ("Input a 8-bit number \n");
-    scanf ("%c" ,&x);
+    scanf ("%d" ,&x);
     bit4 = x / 1000;
     bit4 = bit4 % 10;
     bit7 = x / 1000000;
