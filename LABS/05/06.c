@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-int x;
+    //--- SWITCHING BIT 4 AND BIT 7 OFF FROM  AN INT 8-BIT NUMBER---//
+    int x;
     int bit7;
     int bit4;
     printf ("Input a 8-bit number \n");
