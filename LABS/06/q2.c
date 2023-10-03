@@ -11,7 +11,7 @@ int main (){
 	int i;
 	int n1 = 0;
 	int n2 = 1;
-	int total; //sum if divisible by 3 or 5 or 7
+	int total = 0; //sum if divisible by 3 or 5 or 7
 	printf ("%d \t", n2);
 	int sum = n1 + n2;
 	printf ("%d \t", sum);
@@ -22,13 +22,13 @@ int main (){
 		printf ("%d \t", sum);
 		
 	if (sum % 3 == 0){
-		total = sum + sum;
+		total = total + sum;
 	} //end if
 	else if (sum % 5 == 0){
-		total = sum + sum;
+		total = total + sum;
 	} //end else if
 	else if (sum % 7 == 0){
-		total = sum + sum;
+		total = total + sum;
 	} //end else if
 	else {
 		total = total + 0;
