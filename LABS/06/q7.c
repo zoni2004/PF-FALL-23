@@ -1,7 +1,7 @@
 /*
 * Programmer: Zunaira Amjad
 * Desc: array summation
-* Date: 03-10-23
+* Date: 08-10-23
 *
 */
 #include <stdio.h>
