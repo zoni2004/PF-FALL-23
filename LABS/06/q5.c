@@ -34,7 +34,7 @@ int main () {
             printf ("  \n");
         } //end else
     r = r + 1;
-    } while (r <= n); //end while
+    } while (r <= n); //end do-while
 
 return 0; 
 } //end main
