@@ -1,3 +1,9 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: MOVING AN ARRAY D SPACES
+* Date: 10-10-23
+*
+*/
 #include <stdio.h>
 
 int main() {
