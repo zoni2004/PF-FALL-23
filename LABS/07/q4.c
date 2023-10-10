@@ -1,4 +1,4 @@
-/*
+
 * Programmer: Zunaira Amjad
 * Desc: identifying singular matrix
 * Date: 10-10-23
@@ -31,10 +31,10 @@ int main() {
 	}//end outer for
 
     if (count = 0){
-    	printf ("Array is Singular");
+    	printf ("Array is Symmetrical");
 	}
 	else {
-	 	printf ("Array is not Singular");	
+	 	printf ("Array is not Symmetrical");
 	}
     return 0;
 }
