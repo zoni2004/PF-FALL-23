@@ -6,33 +6,52 @@
 */
 #include <stdio.h>
 
-int main() {
-    int i,j,k,l;
-    int arr1[2][2];
-    int arr2[2][2];
- 
-    for (i=0; i <= 2; i++){
-    	for (j=0; j<= 2; j++){
-    		printf ("Enter the element of arr1[2][2]");
-    		scanf ("%d", &arr1[i][j]);
-		}//end inner for
-	}//end outer for
-	
-	for (k=0; k <= 2; i++){
-    	for (l=0; l<= 2; l++){
-    		printf ("Enter the element of arr2[2][2]");
-    		scanf ("%d", &arr2[k][l]);
-		}//end inner for
-	}//end outer for
-	 for (i=0; i<3 ; i++){
-	 	for (l=0; l<3; l++){
-	 		 	for (j=0; j<= 2; j++){
-	 		 		   	for(k=0; k <= 2; i++){
-	 	          	mul = arr1[i][j]*arr[k][l];
-	 	         }
-		 }
-		 
-	 }
-   
-    return 0;
-}
+int  main (){
+    int r1,c1,i,j;
+    printf ("Enter the number of rows of the 1st array");
+    scanf ("%d",&r1);
+    printf ("Enter the number of columns of the 1st array");
+    scanf ("%d",&c1);
+    int a[r1][c1];
+      for (i=0; i<r1; i++){
+        for (j=0; j<c1; j++){
+            printf ("Enter element of %d row and %d column",i,j);
+            scanf ("%d",&a[i][j]);
+        }
+    }
+    int r2,c2,k,l;
+    printf ("Enter the number of rows of the 2nd array");
+    scanf ("%d",&r2);
+    printf ("Enter the number of columns of the 2nd array");
+    scanf ("%d",&c2);
+    int b[r2][c2];
+     for (k=0; k<r2; k++){
+        for (l=0; l<c2; l++){
+            printf ("Enter element of %d row and %d column",k,l);
+            scanf ("%d",&b[k][l]);
+        }
+    }
+    int c[r1][c2];
+    if (c1 == r2){
+        for (i=0; i<r1; i++){
+             for (l=0; l<c2; l++){
+                   c[i][l] = 0;
+                   for (j=0; j<r2; j++){
+                    c[i][l] += a[i][j]*b[j][l];
+                 }       
+            } 
+        }
+    printf ("{");
+    for (i=0; i<r1; i++){
+        for (l=0; l<c2; l++){
+            printf ("%d, ",c[i][l]);
+        }
+        printf ("\n");
+    }
+    printf ("}");
+    }/*end if for check of possibility of multiplication of the two arrays*/
+    else {
+        printf ("Multiplication of the two arrays is not possible since columns of first array is not equal to rows of second array");
+    } /*end else for check of possibility of multiplication of the two arrays*/
+return 0;
+}//end main
