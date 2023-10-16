@@ -1,7 +1,7 @@
 /*
 * Programmer: Zunaira Amjad
 * Desc: arranging an array in ascending order
-* Date: 10-10-23
+* Date: 16-10-23
 *
 */
 #include <stdio.h>
