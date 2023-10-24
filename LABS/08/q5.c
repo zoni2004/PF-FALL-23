@@ -1,3 +1,11 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: checking if car number and week day are even then return 1 else return 0
+* Date: 10-10-23
+*
+*/
+
+
 #include <stdio.h>
 
 int decide_car_usage (int car_no, int week_day){
