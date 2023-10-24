@@ -1,3 +1,10 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: calculator using a user-defined function
+* Date: 10-10-23
+*
+*/
+
 #include <stdio.h>
 int sum (int n1, int n2){
     int	result = n1 + n2;
