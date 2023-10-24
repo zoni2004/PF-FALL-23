@@ -1,3 +1,11 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc:array sum, min, max using functions
+* Date: 10-10-23
+*
+*/
+
+
 #include <stdio.h>
 
 int process_array (int arr[800], int n) {
