@@ -1,4 +1,9 @@
-
+/*
+* Programmer: Zunaira Amjad
+* Desc: swapping 2 numbers using a user-defined function
+* Date: 10-10-23
+*
+*/
 
 #include <stdio.h>
 
