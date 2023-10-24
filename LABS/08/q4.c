@@ -1,3 +1,10 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: checking a login password using string
+* Date: 10-10-23
+*
+*/
+
 #include <stdio.h>
 #include <string.h>
 
