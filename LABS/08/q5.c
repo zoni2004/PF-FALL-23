@@ -5,7 +5,6 @@
 *
 */
 
-
 #include <stdio.h>
 
 int decide_car_usage (int car_no, int week_day){
@@ -13,19 +12,18 @@ int decide_car_usage (int car_no, int week_day){
 	if (car_no > 0){
 		if (car_no % 2 == 0){
 			if (week_day % 2 == 0){
-			     result = 1;
+			     return 1;
 			}
 			else {
-				printf ("Can not take this car");		
+			    return 0;		
 			}
 		}
 		if (car_no % 2 != 0){
 			if (week_day % 2 == 0){
-				printf ("Can not take this car");
+				return 0;
 			}
 			else {
-				printf ("Can take this car");
-				 result=1;
+				return 1;
 			}
 		}
 	}
@@ -43,11 +41,11 @@ int main (){
 	scanf ("%d",&week_day);
 	
 	decide_car_usage (car_no, week_day);
-	if (decide_car_usage (car_no, week_day) == 0 ){
+	if (decide_car_usage (car_no, week_day) == 1 ){
 		printf ("Can take this car today");
 	}
 	else {
 		printf ("Can not take this car today");
 	}
-	
+return 0;	
 }
