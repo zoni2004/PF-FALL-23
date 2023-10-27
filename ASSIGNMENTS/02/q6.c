@@ -1,3 +1,10 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: finding a user input sum from the array
+* Date: 27-10-23
+*
+*/
+
 #include <stdio.h>
 
 int main() {
