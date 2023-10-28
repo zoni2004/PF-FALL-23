@@ -12,7 +12,6 @@
 int main (){
     int n, rem, q;
     int presistence = 0;
-    bool isEOF = 1; //using bool to loop until stopped by typping EOF
     char a[5];
     while (strcmp(a ,"EOF") != 0){ //loop for taking inputs of number until stopped by user
     printf ("Enter the number \n");
