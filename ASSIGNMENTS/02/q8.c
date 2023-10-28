@@ -1,3 +1,10 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: finding the presistence of an integer i.e. finding the amount of times we need to find digit multiple of an integers integer until it reaches a number less than 10
+* Date: 27-10-23
+*
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
