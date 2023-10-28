@@ -15,7 +15,7 @@ int main (){
     bool isEOF = 1; //using bool to loop until stopped by typping EOF
     char a[5];
     while (strcmp(a ,"EOF") != 0){ //loop for taking inputs of number until stopped by user
-    printf ("Enter the number");
+    printf ("Enter the number \n");
     scanf ("%d", &n);
          if (n > 10){ //making sure the number is not already an integer and hence presistence is zero
               do { //outer loop for finding the presistence - only add 1 when the multiplication of digits of the no is not less than 10 - until the number is less than 10 
