@@ -1,3 +1,9 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: sorting a 2D array in ascending order and descending order wrt rows
+* Date: 27-10-23
+*
+*/
 #include <stdio.h>
 
 int main (){
