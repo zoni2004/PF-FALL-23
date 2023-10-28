@@ -29,7 +29,7 @@ int main (){
                      } while (n > 10);
                  mul = mul * n;
                  n = mul; //making the multiple from outer loop the number to again find the multiplication of the digits of the no until the number is less than 10
-                 printf ("The number is now %d \n", n);
+                 printf ("The number after finding the digit multiple is %d \n", n);
                  presistence = presistence + 1; 
               } while (n > 10);
          }
