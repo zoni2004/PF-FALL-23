@@ -1,6 +1,6 @@
 /*
 * Programmer: Zunaira Amjad
-* Desc:using structures to store, find ,and print data 
+* Desc:using structures to compare, find and manipulate data
 * Date: 21-11-23
 *
 */
