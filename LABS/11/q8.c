@@ -1,6 +1,6 @@
 /*
 * Programmer: Zunaira Amjad
-* Desc:using structures to store, find ,and print data 
+* Desc: using structures to take input of data, finding desired data, and then applying multipliaction on structures
 * Date: 21-11-23
 *
 */
