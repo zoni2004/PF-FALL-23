@@ -1,3 +1,10 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: taking input and printing output in nested structures 
+* Date: 21-11-23
+*
+*/
+
 #include <stdio.h>
 
  struct regis {
