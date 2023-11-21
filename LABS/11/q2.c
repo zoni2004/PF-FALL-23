@@ -1,3 +1,10 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc:using structures to store, find ,and print data 
+* Date: 21-11-23
+*
+*/
+
 #include <stdio.h>
 #include <string.h>
 
@@ -16,7 +23,7 @@ int main (){
     int i=0;
     for (i=0; i<n; i++){
         puts ("Enter serial number of the car");
-		scanf ("%s", p[i].serial_no);
+        scanf ("%s", p[i].serial_no);
         puts ("Enter manufacture year of the car");
         scanf ("%d", &p[i].manfyear);
         puts ("Enter matreial of the car");
