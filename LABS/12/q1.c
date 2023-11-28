@@ -1,3 +1,10 @@
+/*
+* Programmer: Zunaira Amjad
+* Desc: finding rows and columns of a cvs file
+* Date: 10-10-23
+*
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
