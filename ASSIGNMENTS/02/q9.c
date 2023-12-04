@@ -1,8 +1,7 @@
 /**
- * Programmer: Muhammed Owais 
+ * Programmer: Zunaira Amjad 
  * Desc: Inward Outward Spiral
  * Date: 30/11/2023
- * Roll-No: 23K-0047
  */ 
 #include <stdio.h>
 
