@@ -2,7 +2,6 @@
  * Programmer: Zunaira Amjad 
  * Desc: Largest submatrix
  * Date: 30/11/2023
- * Roll-No: 23K-0047
  */ 
 #include <stdio.h>
 
