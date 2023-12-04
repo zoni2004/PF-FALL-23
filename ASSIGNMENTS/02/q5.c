@@ -1,3 +1,9 @@
+/**
+ * Programmer: Zunaira Amjad 
+ * Desc: Largest submatrix
+ * Date: 30/11/2023
+ */ 
+
 #include <stdio.h>
 
 int main (){
