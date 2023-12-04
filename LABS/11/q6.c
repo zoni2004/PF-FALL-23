@@ -2,7 +2,6 @@
  * Programmer: Zunaira Amjad 
  * Desc: Adds 45 to Current Date Assuming Each Month has 30 days
  * Date: 01/12/2023
- * Roll-No: 23K-0047
  */ 
 #include <stdio.h>
 #include <string.h>
