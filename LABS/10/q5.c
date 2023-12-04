@@ -1,3 +1,9 @@
+/**
+ * Programmer: Zunaira Amjad
+ * Desc: Type Casting pointers to create a universal printing function
+ * Date: 20/11/2023
+ */ 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
