@@ -1,7 +1,7 @@
 /**
- * Programmer: Muhammed Owais 
+ * Programmer: Zunaira Amjad
  * Desc: Max Subset Matrix in 2x2 or 4x4 or 8x8
- * Date: 26/11/2023
+ * Date: 09/12/2023
  * Roll-No: 23K-0047
  */ 
 #include <stdio.h>
